@@ -1,0 +1,15 @@
+{
+  "environments" : [ {
+    "name" : "Dev",
+    "environment_id" : "dev",
+    "features" : [ ],
+    "properties" : [ ]
+  } ],
+  "collections" : [ {
+    "name" : "saikumar",
+    "collection_id" : "saikumar",
+    "description" : "",
+    "tags" : ""
+  } ],
+  "segments" : [ ]
+}
